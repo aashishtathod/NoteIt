@@ -1,0 +1,1 @@
+rootProject.name = "aashishtathod.dev.noteit-apis"

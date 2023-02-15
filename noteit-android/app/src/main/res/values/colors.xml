@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primaryColor">#FFE09A71</color>
+    <color name="primaryLightColor">#f3f3f9</color>
+    <color name="primaryDarkColor">#cccccc</color>
+
+    <color name="secondaryColor">#FFE09A71</color>
+    <color name="secondaryLightColor">#FFE09A71</color>
+    <color name="secondaryDarkColor">#FFE09A71</color>
+
+    <color name="background">#FFFFFF</color>
+    <color name="onPrimary">#FFFFFF</color>
+
+    <color name="onSecondary">#000000</color>
+    <color name="onBackground">#000000</color>
+
+    <color name="statusBarColor">#FFFFFF</color>
+    <color name="actionBarColor">#FFFFFF</color>
+    <color name="error">#EB5757</color>
+    <color name="success">#6FCF97</color>
+
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#ffffff</color>
+
+    <color name="defaultWhite">#ffffff</color>
+
+</resources>
