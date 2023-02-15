@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="art/logo.png" height="128"/>
+  <img src="https://github.com/aashishtathod/NoteIt/blob/main/art/logo.png" height="128"/>
 </p>
 
 # NoteIt (Android) 📱
