@@ -1,5 +1,6 @@
-![](art/GitHubPreview.png)
-
+<p align="center">
+  <img src="art/logo.png" height="128"/>
+</p>
 # NoteIt 🖊️ 
 
 
