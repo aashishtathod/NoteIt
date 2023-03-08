@@ -24,7 +24,7 @@ Navigate to [`/noteit-api`](/noteit-api) directory to browse and know more about
 
 ### 🔹 [NoteIt Android Application](/noteit-android)
 
-This is an Android application which uses *Noty REST API*. It has application UI implementation using traditional *Android's Navigation Architecture* as well as modern *Jetpack 🚀 Compose UI*.  
+This is an Android application which uses *NoteIt REST API*. It has application UI implementation using traditional *Android's Navigation Architecture* as well as modern *Jetpack 🚀 Compose UI*.  
 Navigate to [`/noteit-android`](/noteit-android) directory to browse and know more about Noty Android project.
 
 ## Want to Contribute 🙋‍♂️?
